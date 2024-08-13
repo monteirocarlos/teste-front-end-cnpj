@@ -63,6 +63,14 @@ Para realizar o deploy da aplicação em um servidor web, siga estas etapas:
 
 3. **Configuração do Servidor**: Se estiver usando um servidor web, como Apache ou Nginx, configure-o para servir os arquivos estáticos. Certifique-se de que o servidor está configurado para servir o arquivo `index.html` como a página inicial.
 
+
+## Link Hospedado
+
+Deploy realizado na Netlify:
+
+https://teste-front-end-cnpj.netlify.app
+---
+
 ## Contato
 
 Para dúvidas, sugestões ou qualquer outra questão:
